@@ -2,7 +2,7 @@
 
 ## Description
 
-`deck-manager is a simple, lightweight npm package designed to simulate a card deck. It includes functions to generate a standard 52-card deck, shuffle the deck, pop off the top card, and generate a specified number of random cards. Each card in the deck is represented as a two-character string, with the first character representing the rank (2-10, J, Q, K, A) and the second character representing the suit (H, D, C, S).
+`deck-manager` is a simple, lightweight npm package designed to simulate a card deck. It includes functions to generate a standard 52-card deck, shuffle the deck, pop off the top card, and generate a specified number of random cards. Each card in the deck is represented as a two-character string, with the first character representing the rank (2-10, J, Q, K, A) and the second character representing the suit (H, D, C, S).
 
 ## Installation
 
