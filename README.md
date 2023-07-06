@@ -9,7 +9,7 @@
 To install this package, use npm:
 
 ```shell
-npm install deckManager
+npm install deck-manager
 ```
 
 ## API
