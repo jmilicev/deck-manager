@@ -1,4 +1,4 @@
-# deckManager
+# deck-manager
 
 ## Description
 
